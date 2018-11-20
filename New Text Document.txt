@@ -1,0 +1,11 @@
+TO SEARCH:
+server
+script/non-script languages
+mvc
+npm
+xampp(server)
+db(heidi)
+mysql
+dll
+express, node modules
+orm(sequalize)
